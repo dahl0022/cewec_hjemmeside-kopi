@@ -1,0 +1,1931 @@
+main img {
+  width: 100%;
+}
+#first_section {
+  margin: 2%;
+}
+#first_section img {
+  width: 250px;
+}
+#first_section .section_wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2%;
+  padding-bottom: 2%;
+}
+#first_section .section_wrapper .left {
+  text-align: right;
+  vertical-align: middle;
+}
+#first_section .section_wrapper .right {
+  text-align: left;
+}
+#second_section {
+  margin: 2%;
+  align-content: center;
+}
+#second_section .section_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.garn {
+  width: 250px;
+  height: 250px;
+  margin: 1%;
+}
+.garn1 {
+  background-image: url(img/1200-anisia/Anisia-15.jpg);
+  background-size: cover;
+}
+.garn2 {
+  background-image: url(img/1200-anisia/anisia-20.JPG);
+  background-size: cover;
+}
+.garn3 {
+  background-image: url(img/1200-anisia/anisia-22.JPG);
+  background-size: cover;
+}
+.garn4 {
+  background-image: url(img/1200-anisia/anisia-23.JPG);
+  background-size: cover;
+}
+.garn5 {
+  background-image: url(img/1200-anisia/anisia-25.JPG);
+  background-size: cover;
+}
+.garn6 {
+  background-image: url(img/1200-anisia/anisia-26.JPG);
+  background-size: cover;
+}
+.garn7 {
+  background-image: url(img/1200-anisia/anisia-27.JPG);
+  background-size: cover;
+}
+.garn8 {
+  background-image: url(img/1200-anisia/anisia-28.JPG);
+  background-size: cover;
+}
+.garn9 {
+  background-image: url(img/1200-anisia/anisia-29.JPG);
+  background-size: cover;
+}
+.garn10 {
+  background-image: url(img/1200-anisia/anisia-30.JPG);
+  background-size: cover;
+}
+.garn11 {
+  background-image: url(img/1200-anisia/Anisia-31.jpg);
+  background-size: cover;
+}
+.garn12 {
+  background-image: url(img/1200-anisia/anisia-38.JPG);
+  background-size: cover;
+}
+.garn13 {
+  background-image: url(img/1200-anisia/anisia-39.JPG);
+  background-size: cover;
+}
+.garn14 {
+  background-image: url(img/1200-anisia/anisia-40.JPG);
+  background-size: cover;
+}
+.garn15 {
+  background-image: url(img/1200-anisia/anisia-41.JPG);
+  background-size: cover;
+}
+.garn16 {
+  background-image: url(img/1200-anisia/anisia-43.JPG);
+  background-size: cover;
+}
+.garn17 {
+  background-image: url(img/1200-anisia/anisia-44.JPG);
+  background-size: cover;
+}
+.garn18 {
+  background-image: url(img/1200-anisia/anisia-45.jpg);
+  background-size: cover;
+}
+.garn19 {
+  background-image: url(img/1200-anisia/anisia-47.jpg);
+  background-size: cover;
+}
+.garn20 {
+  background-image: url(img/1200-anisia/anisia-48.jpg);
+  background-size: cover;
+}
+.garn21 {
+  background-image: url(img/1200-anisia/anisia-49.jpg);
+  background-size: cover;
+}
+.garn22 {
+  background-image: url(img/1200-anisia/Anisia-50.jpg);
+  background-size: cover;
+}
+.garn23 {
+  background-image: url(img/1200-anisia/Anisia-52.jpg);
+  background-size: cover;
+}
+.garn24 {
+  background-image: url(img/1200-anisia/Anisia-54.jpg);
+  background-size: cover;
+}
+.garn25 {
+  background-image: url(img/1200-anisia/anisia-55.jpg);
+  background-size: cover;
+}
+.garn26 {
+  background-image: url(img/1200-anisia/anisia-56.jpg);
+  background-size: cover;
+}
+.garn27 {
+  background-image: url(img/1200-anisia/anisia-57.jpeg);
+  background-size: cover;
+}
+.garn28 {
+  background-image: url(img/1200-anisia/anisia-58.jpeg);
+  background-size: cover;
+}
+.garn29 {
+  background-image: url(img/1200-anisia/Anisia-72.jpg);
+  background-size: cover;
+}
+.garn30 {
+  background-image: url(img/1200-anisia/Anisia-75.jpg);
+  background-size: cover;
+}
+.garn31 {
+  background-image: url(img/1200-anisia/Anisia-76.jpg);
+  background-size: cover;
+}
+.garn32 {
+  background-image: url(img/1200-anisia/Anisia-77.jpg);
+  background-size: cover;
+}
+.bloom1 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-201.jpg);
+  background-size: cover;
+}
+.bloom2 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-204.jpg);
+  background-size: cover;
+}
+.bloom3 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-206.jpg);
+  background-size: cover;
+}
+.bloom4 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-207.jpg);
+  background-size: cover;
+}
+.bloom5 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-209.jpg);
+  background-size: cover;
+}
+.bloom6 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-210.jpg);
+  background-size: cover;
+}
+.bloom7 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-213.jpg);
+  background-size: cover;
+}
+
+.bloom8 {
+  background-image: url(img/bloom-ensfarvet/bamboo-bloom-215.jpg);
+  background-size: cover;
+}
+
+.bloomhand1 {
+  background-image: url(img/bloom-multi/bloom-302.JPG);
+  background-size: cover;
+}
+.bloomhand2 {
+  background-image: url(img/bloom-multi/bloom-304.JPG);
+  background-size: cover;
+}
+.bloomhand3 {
+  background-image: url(img/bloom-multi/bloom-305.JPG);
+  background-size: cover;
+}
+.bloomhand4 {
+  background-image: url(img/bloom-multi/bloom-307.JPG);
+  background-size: cover;
+}
+.bloomhand5 {
+  background-image: url(img/bloom-multi/bloom-310.jpg);
+  background-size: cover;
+}
+.bloomhand6 {
+  background-image: url(img/bloom-multi/bloom-311.jpg);
+  background-size: cover;
+}
+.bloomhand7 {
+  background-image: url(img/bloom-multi/bloom-312.JPG);
+  background-size: cover;
+}
+.bloomhand8 {
+  background-image: url(img/bloom-multi/bloom-313.jpg);
+  background-size: cover;
+}
+.bloomhand9 {
+  background-image: url(img/bloom-multi/bamboo-bloom315.jpg);
+  background-size: cover;
+}
+.bloomhand10 {
+  background-image: url(img/bloom-multi/bloom-317.jpg);
+  background-size: cover;
+}
+.bloomhand11 {
+  background-image: url(img/bloom-multi/bamboo-bloom-325.jpg);
+  background-size: cover;
+}
+.bloomhand12 {
+  background-image: url(img/bloom-multi/bamboo-bloom-328.jpg);
+  background-size: cover;
+}
+.cottonwood1 {
+  background-image: url(img/cottonwood/41102.jpeg);
+  background-size: cover;
+}
+.cottonwood2 {
+  background-image: url(img/cottonwood/41103.jpg);
+  background-size: cover;
+}
+.cottonwood3 {
+  background-image: url(img/cottonwood/41106.jpg);
+  background-size: cover;
+}
+.cottonwood4 {
+  background-image: url(img/cottonwood/41107.jpg);
+  background-size: cover;
+}
+.cottonwood5 {
+  background-image: url(img/cottonwood/41116.jpg);
+  background-size: cover;
+}
+.cottonwood6 {
+  background-image: url(img/cottonwood/41118.jpg);
+  background-size: cover;
+}
+.cottonwood7 {
+  background-image: url(img/cottonwood/41124.jpg);
+  background-size: cover;
+}
+.cottonwood8 {
+  background-image: url(img/cottonwood/41126.jpg);
+  background-size: cover;
+}
+.cottonwood9 {
+  background-image: url(img/cottonwood/41127.jpg);
+  background-size: cover;
+}
+.cottonwood10 {
+  background-image: url(img/cottonwood/41130.jpg);
+  background-size: cover;
+}
+.cottonwood11 {
+  background-image: url(img/cottonwood/41132.jpg);
+  background-size: cover;
+}
+.cottonwood12 {
+  background-image: url(img/cottonwood/41133.jpg);
+  background-size: cover;
+}
+.cottonwood13 {
+  background-image: url(img/cottonwood/cotwood-135.jpg);
+  background-size: cover;
+}
+.cottonwood14 {
+  background-image: url(img/cottonwood/cotwood-138.jpg);
+  background-size: cover;
+}
+.cottonwood15 {
+  background-image: url(img/cottonwood/cotwood-139.jpg);
+  background-size: cover;
+}
+.cottonwood16 {
+  background-image: url(img/cottonwood/cotwood-142.jpg);
+  background-size: cover;
+}
+.cottonwood17 {
+  background-image: url(img/cottonwood/cotwood-143.jpg);
+  background-size: cover;
+}
+.cottonwood18 {
+  background-image: url(img/cottonwood/cotwood-150.jpg);
+  background-size: cover;
+}
+
+.dolce1 {
+  background-image: url(img/dolce/080.JPG);
+  background-size: cover;
+}
+.dolce2 {
+  background-image: url(img/dolce/093.JPG);
+  background-size: cover;
+}
+.dolce3 {
+  background-image: url(img/dolce/102.jpeg);
+  background-size: cover;
+}
+.dolce4 {
+  background-image: url(img/dolce/116.JPG);
+  background-size: cover;
+}
+.dolce5 {
+  background-image: url(img/dolce/130.jpeg);
+  background-size: cover;
+}
+.dolce6 {
+  background-image: url(img/dolce/145.jpg);
+  background-size: cover;
+}
+.dolce7 {
+  background-image: url(img/dolce/179.jpg);
+  background-size: cover;
+}
+.dolce8 {
+  background-image: url(img/dolce/184.jpg);
+  background-size: cover;
+}
+.dolce9 {
+  background-image: url(img/dolce/200.JPG);
+  background-size: cover;
+}
+.dolce10 {
+  background-image: url(img/dolce/205.JPG);
+  background-size: cover;
+}
+.dolce11 {
+  background-image: url(img/dolce/206.jpg);
+  background-size: cover;
+}
+.dolce12 {
+  background-image: url(img/dolce/225.JPG);
+  background-size: cover;
+}
+.dolce13 {
+  background-image: url(img/dolce/226.jpg);
+  background-size: cover;
+}
+.dolce14 {
+  background-image: url(img/dolce/227.jpeg);
+  background-size: cover;
+}
+.dolce15 {
+  background-image: url(img/dolce/228.jpg);
+  background-size: cover;
+}
+.dolce16 {
+  background-image: url(img/dolce/249.jpg);
+  background-size: cover;
+}
+.dolce17 {
+  background-image: url(img/dolce/250.jpg);
+  background-size: cover;
+}
+.dolce18 {
+  background-image: url(img/dolce/251.JPG);
+  background-size: cover;
+}
+.dolce19 {
+  background-image: url(img/dolce/252.JPG);
+  background-size: cover;
+}
+.dolce20 {
+  background-image: url(img/dolce/253.JPG);
+  background-size: cover;
+}
+.dolce21 {
+  background-image: url(img/dolce/284.jpg);
+  background-size: cover;
+}
+.dolce22 {
+  background-image: url(img/dolce/300.jpg);
+  background-size: cover;
+}
+.dolce23 {
+  background-image: url(img/dolce/333.JPG);
+  background-size: cover;
+}
+.dolce24 {
+  background-image: url(img/dolce/334.JPG);
+  background-size: cover;
+}
+.dolce25 {
+  background-image: url(img/dolce/335.JPG);
+  background-size: cover;
+}
+.dolce26 {
+  background-image: url(img/dolce/337.jpg);
+  background-size: cover;
+}
+.dolce27 {
+  background-image: url(img/dolce/339.jpeg);
+  background-size: cover;
+}
+.dolce28 {
+  background-image: url(img/dolce/348.jpg);
+  background-size: cover;
+}
+.dolce29 {
+  background-image: url(img/dolce/349.jpg);
+  background-size: cover;
+}
+.dolce30 {
+  background-image: url(img/dolce/361.jpg);
+  background-size: cover;
+}
+.dolce31 {
+  background-image: url(img/dolce/362.jpg);
+  background-size: cover;
+}
+.dolce32 {
+  background-image: url(img/dolce/417.JPG);
+  background-size: cover;
+}
+.dolce33 {
+  background-image: url(img/dolce/426.JPG);
+  background-size: cover;
+}
+.dolce34 {
+  background-image: url(img/dolce/550.jpg);
+  background-size: cover;
+}
+.dolce35 {
+  background-image: url(img/dolce/563.JPG);
+  background-size: cover;
+}
+.dolce36 {
+  background-image: url(img/dolce/595.JPG);
+  background-size: cover;
+}
+.dolce37 {
+  background-image: url(img/dolce/701.JPG);
+  background-size: cover;
+}
+.dolce38 {
+  background-image: url(img/dolce/702.JPG);
+  background-size: cover;
+}
+.dolce39 {
+  background-image: url(img/dolce/718.jpeg);
+  background-size: cover;
+}
+.dolce40 {
+  background-image: url(img/dolce/860.jpeg);
+  background-size: cover;
+}
+.dolce41 {
+  background-image: url(img/dolce/883.JPG);
+  background-size: cover;
+}
+.dolceglitter1 {
+  background-image: url(img/dolce_glitter/179-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolceglitter2 {
+  background-image: url(img/dolce_glitter/200.jpg);
+  background-size: cover;
+}
+.dolceglitter3 {
+  background-image: url(img/dolce_glitter/300-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolceglitter4 {
+  background-image: url(img/dolce_glitter/337-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolceglitter5 {
+  background-image: url(img/dolce_glitter/348-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolceglitter6 {
+  background-image: url(img/dolce_glitter/349-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolceglitter7 {
+  background-image: url(img/dolce_glitter/361-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolceglitter8 {
+  background-image: url(img/dolce_glitter/512-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolceglitter9 {
+  background-image: url(img/dolce_glitter/702-dolce-glitter.jpg);
+  background-size: cover;
+}
+.dolcemohair1 {
+  background-image: url(img/dole_mohair_multi//413-dolce-multi_29533.jpg);
+  background-size: cover;
+}
+.dolcemohair2 {
+  background-image: url(img/dole_mohair_multi/414-dolce-multi_29537.jpg);
+  background-size: cover;
+}
+.dolcemohair3 {
+  background-image: url(img/dole_mohair_multi/415-dolce-multi_29541.jpg);
+  background-size: cover;
+}
+.dolcemohair4 {
+  background-image: url(img/dole_mohair_multi/418-dolce-multi_29545.jpg);
+  background-size: cover;
+}
+.dolcemohair5 {
+  background-image: url(img/dole_mohair_multi/419-dolce-multi_29549.jpg);
+  background-size: cover;
+}
+.dolcemohair6 {
+  background-image: url(img/dole_mohair_multi/424-dolce-multi_29553.jpg);
+  background-size: cover;
+}
+.dolcemohair7 {
+  background-image: url(img/dole_mohair_multi/478-dolce-multi_30197.jpg);
+  background-size: cover;
+}
+.dolcemohair8 {
+  background-image: url(img/dole_mohair_multi/479-dolce-multi_30201.jpg);
+  background-size: cover;
+}
+.dolcemohair9 {
+  background-image: url(img/dole_mohair_multi/480-dolce-multi_30205.jpg);
+  background-size: cover;
+}
+.dolcemohair10 {
+  background-image: url(img/dole_mohair_multi/481-dolce-multi_30209.jpg);
+  background-size: cover;
+}
+.dolcemohair11 {
+  background-image: url(img/dole_mohair_multi/482-dolce-multi_30233.jpg);
+  background-size: cover;
+}
+.dolcemohair12 {
+  background-image: url(img/dole_mohair_multi/img_5082_32162.jpg);
+  background-size: cover;
+}
+
+.dolcemohair13 {
+  background-image: url(img/dole_mohair_multi/img_5081_32158.jpg);
+  background-size: cover;
+}
+.dolcemohair14 {
+  background-image: url(img/dole_mohair_multi/img_5080_32166.jpg);
+  background-size: cover;
+}
+.glitter1 {
+  background-image: url(img/glitter/8201__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter2 {
+  background-image: url(img/glitter/8202__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter3 {
+  background-image: url(img/glitter//8205__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter4 {
+  background-image: url(img/glitter/8209__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter5 {
+  background-image: url(img/glitter/8210__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter6 {
+  background-image: url(img/glitter/8213__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter7 {
+  background-image: url(img/glitter/8220__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter8 {
+  background-image: url(img/glitter/8221__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter9 {
+  background-image: url(img/glitter/8222__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter10 {
+  background-image: url(img/glitter/8235__Glitter_uni.jpg);
+  background-size: cover;
+}
+.glitter11 {
+  background-image: url(img/glitter/01__glitter_print_19542.jpg);
+  background-size: cover;
+}
+.glitter12 {
+  background-image: url(img/glitter/02__glitter_print_19546.jpg);
+  background-size: cover;
+}
+.glitter13 {
+  background-image: url(img/glitter/03__glitter_print_19550.jpg);
+  background-size: cover;
+}
+.glitter14 {
+  background-image: url(img/glitter/04__glitter_print_19554.jpg);
+  background-size: cover;
+}
+.glitter15 {
+  background-image: url(img/glitter/05__glitter_print_19558.jpg);
+  background-size: cover;
+}
+.sock1 {
+  background-image: url(img/hot_socks_pearl/01-hotsocks-pearl-cewec_28017.jpg);
+  background-size: cover;
+}
+.sock2 {
+  background-image: url(img/hot_socks_pearl/02-hotsocks-pearl_28021.jpg);
+  background-size: cover;
+}
+.sock3 {
+  background-image: url(img/hot_socks_pearl/03-hotsock-pearl_28029.jpg);
+  background-size: cover;
+}
+.sock4 {
+  background-image: url(img/hot_socks_pearl/4-cewec_28054.jpg);
+  background-size: cover;
+}
+.sock5 {
+  background-image: url(img/hot_socks_pearl/5_28025.jpg);
+  background-size: cover;
+}
+.sock6 {
+  background-image: url(img/hot_socks_pearl/06-hotsocks-pearl_28033.jpg);
+  background-size: cover;
+}
+.sock7 {
+  background-image: url(img/hot_socks_pearl/08-hotsocks-pearl_28037.jpg);
+  background-size: cover;
+}
+.sock8 {
+  background-image: url(img/hot_socks_pearl/09.jpg_28084.jpg);
+  background-size: cover;
+}
+.sock9 {
+  background-image: url(img/hot_socks_pearl/10-hotsock-pearl_28090.jpg);
+  background-size: cover;
+}
+.sock10 {
+  background-image: url(img/hot_socks_pearl/11_28062.jpg);
+  background-size: cover;
+}
+.sock11 {
+  background-image: url(img/hot_socks_pearl/12_28070.jpg);
+  background-size: cover;
+}
+.sock12 {
+  background-image: url(img/hot_socks_pearl/13-hotsocks-pearl-cewec_28045.jpg);
+  background-size: cover;
+}
+.sock13 {
+  background-image: url(img/hot_socks_pearl/14-hotsocks-pearl-cewec_28050.jpg);
+  background-size: cover;
+}
+.sock14 {
+  background-image: url(img/hot_socks_pearl/15_28094.jpg);
+  background-size: cover;
+}
+.sock15 {
+  background-image: url(img/hot_socks_pearl/16_28098.jpg);
+  background-size: cover;
+}
+.sock16 {
+  background-image: url(img/hot_socks_pearl/17_29140.jpg);
+  background-size: cover;
+}
+.sock17 {
+  background-image: url(img/hot_socks_pearl/18_29144.jpg);
+  background-size: cover;
+}
+.sock18 {
+  background-image: url(img/hot_socks_pearl/19_29975.jpg);
+  background-size: cover;
+}
+.sock19 {
+  background-image: url(img/hot_socks_pearl/20_29979.jpg);
+  background-size: cover;
+}
+.sock20 {
+  background-image: url(img/hot_socks_pearl/21__31971.jpg);
+  background-size: cover;
+}
+.sock21 {
+  background-image: url(img/hot_socks_pearl/22__31975.jpg);
+  background-size: cover;
+}
+.sock22 {
+  background-image: url(img/hot_socks_pearl/color-01_26967.jpg);
+  background-size: cover;
+}
+.sock23 {
+  background-image: url(img/hot_socks_pearl/color-02_26971.jpg);
+  background-size: cover;
+}
+.sock24 {
+  background-image: url(img/hot_socks_pearl/multi-03_26975.jpg);
+  background-size: cover;
+}
+.sock25 {
+  background-image: url(img/hot_socks_pearl/multi-04_26979.jpg);
+  background-size: cover;
+}
+.sock26 {
+  background-image: url(img/hot_socks_pearl/multi-05_26983.jpg);
+  background-size: cover;
+}
+.sock27 {
+  background-image: url(img/hot_socks_pearl/multi-06_26987.jpg);
+  background-size: cover;
+}
+.sock28 {
+  background-image: url(img/hot_socks_pearl/multi-07_26991.jpg);
+  background-size: cover;
+}
+.sock29 {
+  background-image: url(img/hot_socks_pearl/multi-08_26995.jpg);
+  background-size: cover;
+}
+.jazz1 {
+  background-image: url(img/jazz/201.jpg);
+  background-size: cover;
+}
+.jazz2 {
+  background-image: url(img/jazz/202.jpg);
+  background-size: cover;
+}
+.jazz3 {
+  background-image: url(img/jazz/203.jpg);
+  background-size: cover;
+}
+.jazz4 {
+  background-image: url(img/jazz/204.jpg);
+  background-size: cover;
+}
+.jazz5 {
+  background-image: url(img/jazz/205.jpg);
+  background-size: cover;
+}
+.jazz6 {
+  background-image: url(img/jazz/206.jpg);
+  background-size: cover;
+}
+.jazz7 {
+  background-image: url(img/jazz/207.jpg);
+  background-size: cover;
+}
+.jazz8 {
+  background-image: url(img/jazz/208.jpg);
+  background-size: cover;
+}
+.jazz9 {
+  background-image: url(img/jazz/209.jpg);
+  background-size: cover;
+}
+.jazz10 {
+  background-image: url(img/jazz/210.jpg);
+  background-size: cover;
+}
+.jazz11 {
+  background-image: url(img/jazz/211.jpg);
+  background-size: cover;
+}
+.jazz12 {
+  background-image: url(img/jazz/212.jpg);
+  background-size: cover;
+}
+.jazz13 {
+  background-image: url(img/jazz/213.jpg);
+  background-size: cover;
+}
+.jazz14 {
+  background-image: url(img/jazz/214.jpg);
+  background-size: cover;
+}
+.jazz15 {
+  background-image: url(img/jazz/215.jpg);
+  background-size: cover;
+}
+.jazz16 {
+  background-image: url(img/jazz/216.jpg);
+  background-size: cover;
+}
+.jazz17 {
+  background-image: url(img/jazz/217.jpg);
+  background-size: cover;
+}
+.jazz18 {
+  background-image: url(img/jazz/218.jpg);
+  background-size: cover;
+}
+.jazz19 {
+  background-image: url(img/jazz/219.jpeg);
+  background-size: cover;
+}
+.jazz20 {
+  background-image: url(img/jazz/220.jpeg);
+  background-size: cover;
+}
+.jazz21 {
+  background-image: url(img/jazz/221.jpeg);
+  background-size: cover;
+}
+.jazz22 {
+  background-image: url(img/jazz/222.jpeg);
+  background-size: cover;
+}
+.jazz23 {
+  background-image: url(img/jazz/223.jpg);
+  background-size: cover;
+}
+.jazz24 {
+  background-image: url(img/jazz/224.jpg);
+  background-size: cover;
+}
+.jazz25 {
+  background-image: url(img/jazz/225.jpg);
+  background-size: cover;
+}
+.jazz26 {
+  background-image: url(img/jazz/226.jpeg);
+  background-size: cover;
+}
+.jazz27 {
+  background-image: url(img/jazz/227.jpg);
+  background-size: cover;
+}
+.jazz28 {
+  background-image: url(img/jazz/228.jpg);
+  background-size: cover;
+}
+.jazz29 {
+  background-image: url(img/jazz/229.jpg);
+  background-size: cover;
+}
+.jazz30 {
+  background-image: url(img/jazz/230.jpg);
+  background-size: cover;
+}
+.jazz31 {
+  background-image: url(img/jazz/231.jpg);
+  background-size: cover;
+}
+.jazz32 {
+  background-image: url(img/jazz/232.jpg);
+  background-size: cover;
+}
+.jazz33 {
+  background-image: url(img/jazz/233.jpg);
+  background-size: cover;
+}
+.jazz34 {
+  background-image: url(img/jazz/234.jpg);
+  background-size: cover;
+}
+.jazz35 {
+  background-image: url(img/jazz/235.jpg);
+  background-size: cover;
+}
+.jeans1 {
+  background-image: url(img/4900-jeans/20_25551.jpg);
+  background-size: cover;
+}
+.jeans2 {
+  background-image: url(img/4900-jeans/21_25555.jpg);
+  background-size: cover;
+}
+.jeans3 {
+  background-image: url(img/4900-jeans/22_25559.jpg);
+  background-size: cover;
+}
+.jeans4 {
+  background-image: url(img/4900-jeans/23_25563.jpg);
+  background-size: cover;
+}
+.jeans5 {
+  background-image: url(img/4900-jeans/24.jpg);
+  background-size: cover;
+}
+.jeans6 {
+  background-image: url(img/4900-jeans/25.jpg);
+  background-size: cover;
+}
+.jeans7 {
+  background-image: url(img/4900-jeans/26.jpg);
+  background-size: cover;
+}
+.jeans8 {
+  background-image: url(img/4900-jeans/27.jpg);
+  background-size: cover;
+}
+.jeans9 {
+  background-image: url(img/4900-jeans/28.jpg);
+  background-size: cover;
+}
+.jeans10 {
+  background-image: url(img/4900-jeans/29.jpg);
+  background-size: cover;
+}
+.jeans11 {
+  background-image: url(img/4900-jeans/30.jpg);
+  background-size: cover;
+}
+.jeans12 {
+  background-image: url(img/4900-jeans/31.jpg);
+  background-size: cover;
+}
+.jeans13 {
+  background-image: url(img/4900-jeans/32_29363.jpg);
+  background-size: cover;
+}
+.jeans14 {
+  background-image: url(img/4900-jeans/33-jeans-cewec_29359.jpg);
+  background-size: cover;
+}
+.jeans15 {
+  background-image: url(img/4900-jeans/34.jpg);
+  background-size: cover;
+}
+.jeans16 {
+  background-image: url(img/4900-jeans/35.jpg);
+  background-size: cover;
+}
+.jeans17 {
+  background-image: url(img/4900-jeans/36.jpg);
+  background-size: cover;
+}
+.katmandu1 {
+  background-image: url(img/katmandu/01_18622.jpg);
+  background-size: cover;
+}
+.katmandu2 {
+  background-image: url(img/katmandu/02_18626.jpg);
+  background-size: cover;
+}
+.katmandu3 {
+  background-image: url(img/katmandu/03_18630.jpg);
+  background-size: cover;
+}
+.katmandu4 {
+  background-image: url(img/katmandu/04_18634.jpg);
+  background-size: cover;
+}
+.katmandu5 {
+  background-image: url(img/katmandu/05_18638.jpg);
+  background-size: cover;
+}
+.katmandu6 {
+  background-image: url(img/katmandu/06-cewec_24472.jpg);
+  background-size: cover;
+}
+.katmandu7 {
+  background-image: url(img/katmandu/07-cewec_24482.jpg);
+  background-size: cover;
+}
+.katmandu8 {
+  background-image: url(img/katmandu/08-katmandu_24447.jpg);
+  background-size: cover;
+}
+.katmandu9 {
+  background-image: url(img/katmandu/09-cewec_24467.jpg);
+  background-size: cover;
+}
+.katmandu10 {
+  background-image: url(img/katmandu/10-cewec_24462.jpg);
+  background-size: cover;
+}
+.katmandu11 {
+  background-image: url(img/katmandu/11_19654.jpg);
+  background-size: cover;
+}
+.katmandu12 {
+  background-image: url(img/katmandu/14_20317.jpg);
+  background-size: cover;
+}
+.katmandu13 {
+  background-image: url(img/katmandu/12_20321.jpg);
+  background-size: cover;
+}
+.katmandu14 {
+  background-image: url(img/katmandu/15-cewec_24477.jpg);
+  background-size: cover;
+}
+.katmandu15 {
+  background-image: url(img/katmandu/16_23639.jpeg);
+  background-size: cover;
+}
+.katmandu16 {
+  background-image: url(img/katmandu/17_29957.jpg);
+  background-size: cover;
+}
+.katmandu17 {
+  background-image: url(img/katmandu/18_29953.jpg);
+  background-size: cover;
+}
+.katmandu18 {
+  background-image: url(img/katmandu/19-cewec_31009.jpg);
+  background-size: cover;
+}
+.katmandu19 {
+  background-image: url(img/katmandu/20-cewec_31015.jpg);
+  background-size: cover;
+}
+.linea1 {
+  background-image: url(img/1600-linea/01.jpg);
+  background-size: cover;
+}
+.linea2 {
+  background-image: url(img/1600-linea/02.jpg);
+  background-size: cover;
+}
+.linea3 {
+  background-image: url(img/1600-linea/04.jpg);
+  background-size: cover;
+}
+.linea4 {
+  background-image: url(img/1600-linea/05.jpg);
+  background-size: cover;
+}
+.linea5 {
+  background-image: url(img/1600-linea/08.jpg);
+  background-size: cover;
+}
+.linea6 {
+  background-image: url(img/1600-linea/09.jpg);
+  background-size: cover;
+}
+.linea7 {
+  background-image: url(img/1600-linea/10.jpg);
+  background-size: cover;
+}
+.linea8 {
+  background-image: url(img/1600-linea/11.jpg);
+  background-size: cover;
+}
+.linea9 {
+  background-image: url(img/1600-linea/13.jpg);
+  background-size: cover;
+}
+.linea10 {
+  background-image: url(img/1600-linea/17.jpg);
+  background-size: cover;
+}
+.linea11 {
+  background-image: url(img/1600-linea/18.jpg);
+  background-size: cover;
+}
+.linea12 {
+  background-image: url(img/1600-linea/19.JPG);
+  background-size: cover;
+}
+.linea13 {
+  background-image: url(img/1600-linea/20.JPG);
+  background-size: cover;
+}
+.linea14 {
+  background-image: url(img/1600-linea/21.JPG);
+  background-size: cover;
+}
+.linea15 {
+  background-image: url(img/1600-linea/22.JPG);
+  background-size: cover;
+}
+.linea16 {
+  background-image: url(img/1600-linea/23.JPG);
+  background-size: cover;
+}
+.linea17 {
+  background-image: url(img/1600-linea/24.JPG);
+  background-size: cover;
+}
+.linea18 {
+  background-image: url(img/1600-linea/25.JPG);
+  background-size: cover;
+}
+.linea19 {
+  background-image: url(img/1600-linea/26.JPG);
+  background-size: cover;
+}
+.linea20 {
+  background-image: url(img/1600-linea/27.jpeg);
+  background-size: cover;
+}
+.linea21 {
+  background-image: url(img/1600-linea/30.JPG);
+  background-size: cover;
+}
+.linea22 {
+  background-image: url(img/1600-linea/31.JPG);
+  background-size: cover;
+}
+.linea23 {
+  background-image: url(img/1600-linea/32.JPG);
+  background-size: cover;
+}
+.linea24 {
+  background-image: url(img/1600-linea/33.JPG);
+  background-size: cover;
+}
+.linea25 {
+  background-image: url(img/1600-linea/34.jpg);
+  background-size: cover;
+}
+.linea26 {
+  background-image: url(img/1600-linea/35.jpg);
+  background-size: cover;
+}
+.linea27 {
+  background-image: url(img/1600-linea/36.jpg);
+  background-size: cover;
+}
+.linea28 {
+  background-image: url(img/1600-linea/37.jpg);
+  background-size: cover;
+}
+.linea29 {
+  background-image: url(img/1600-linea/38.jpg);
+  background-size: cover;
+}
+.lido1 {
+  background-image: url(img/Lido/lido-201.-cewec.JPG);
+  background-size: cover;
+}
+.lido2 {
+  background-image: url(img/Lido/lido-202-cewec.JPG);
+  background-size: cover;
+}
+.lido3 {
+  background-image: url(img/Lido/lido-203-cewec.JPG);
+  background-size: cover;
+}
+.lido4 {
+  background-image: url(img/Lido/lido-204-cewec.JPG);
+  background-size: cover;
+}
+.lido5 {
+  background-image: url(img/Lido/lido-205-cewec.JPG);
+  background-size: cover;
+}
+.lido6 {
+  background-image: url(img/Lido/lido-206-cewec.JPG);
+  background-size: cover;
+}
+.lido7 {
+  background-image: url(img/Lido/lido-207-cewec.JPG);
+  background-size: cover;
+}
+.lido8 {
+  background-image: url(img/Lido/lido-209-cewec.JPG);
+  background-size: cover;
+}
+.marino_soft1 {
+  background-image: url(img/marino_soft/MS-01A.JPG);
+  background-size: cover;
+}
+.marino_soft2 {
+  background-image: url(img/marino_soft/MS-02A.JPG);
+  background-size: cover;
+}
+.marino_soft3 {
+  background-image: url(img/marino_soft/MS-03A.JPG);
+  background-size: cover;
+}
+.marino_soft4 {
+  background-image: url(img/marino_soft/MS-04A.JPG);
+  background-size: cover;
+}
+.marino_soft5 {
+  background-image: url(img/marino_soft/MS-07A.JPG);
+  background-size: cover;
+}
+.marino_soft6 {
+  background-image: url(img/marino_soft/MS-08A.JPG);
+  background-size: cover;
+}
+.marino_soft7 {
+  background-image: url(img/marino_soft/MS-12A.JPG);
+  background-size: cover;
+}
+.marino_soft8 {
+  background-image: url(img/marino_soft/MS-14A.JPG);
+  background-size: cover;
+}
+.marino_soft9 {
+  background-image: url(img/marino_soft/MS-15A.JPG);
+  background-size: cover;
+}
+.marino_soft10 {
+  background-image: url(img/marino_soft/MS-16A.JPG);
+  background-size: cover;
+}
+.marino_soft11 {
+  background-image: url(img/marino_soft/MS-19A.JPG);
+  background-size: cover;
+}
+.marino_soft12 {
+  background-image: url(img/marino_soft/MS-20A.JPG);
+  background-size: cover;
+}
+.marino_soft13 {
+  background-image: url(img/marino_soft/MS-21A.JPG);
+  background-size: cover;
+}
+.marino_soft14 {
+  background-image: url(img/marino_soft/MS-22A.JPG);
+  background-size: cover;
+}
+.marino_soft15 {
+  background-image: url(img/marino_soft/MS-23A.JPG);
+  background-size: cover;
+}
+.marino_soft16 {
+  background-image: url(img/marino_soft/MS-24A.JPG);
+  background-size: cover;
+}
+.marino_soft17 {
+  background-image: url(img/marino_soft/MS-29A.JPG);
+  background-size: cover;
+}
+.marino_soft18 {
+  background-image: url(img/marino_soft/MS-30A.JPG);
+  background-size: cover;
+}
+.marino_soft19 {
+  background-image: url(img/marino_soft/33_24188.jpg);
+  background-size: cover;
+}
+.marino_soft20 {
+  background-image: url(img/marino_soft/34_24192.jpg);
+  background-size: cover;
+}
+.marino_soft21 {
+  background-image: url(img/marino_soft/36_24200.jpg);
+  background-size: cover;
+}
+.marino_soft22 {
+  background-image: url(img/marino_soft/37_24204.jpg);
+  background-size: cover;
+}
+.marino_soft23 {
+  background-image: url(img/marino_soft/38_24208.jpg);
+  background-size: cover;
+}
+.marino_soft24 {
+  background-image: url(img/marino_soft/42_24224.jpg);
+  background-size: cover;
+}
+.marino_soft25 {
+  background-image: url(img/marino_soft/43_24228.jpg);
+  background-size: cover;
+}
+.miranda1 {
+  background-image: url(img/1100-miranda/Miranda-10.jpg);
+  background-size: cover;
+}
+.miranda2 {
+  background-image: url(img/1100-miranda/Miranda-18.jpg);
+  background-size: cover;
+}
+.miranda3 {
+  background-image: url(img/1100-miranda/Miranda-19.jpg);
+  background-size: cover;
+}
+.miranda4 {
+  background-image: url(img/1100-miranda/Miranda-20.jpg);
+  background-size: cover;
+}
+.miranda5 {
+  background-image: url(img/1100-miranda/Miranda-21.jpg);
+  background-size: cover;
+}
+.miranda6 {
+  background-image: url(img/1100-miranda/Miranda-24.jpg);
+  background-size: cover;
+}
+.miranda7 {
+  background-image: url(img/1100-miranda/Miranda-26.jpg);
+  background-size: cover;
+}
+.miranda8 {
+  background-image: url(img/1100-miranda/Miranda-27.jpg);
+  background-size: cover;
+}
+.miranda9 {
+  background-image: url(img/1100-miranda/Miranda-28.jpg);
+  background-size: cover;
+}
+.miranda10 {
+  background-image: url(img/1100-miranda/Miranda-30.jpg);
+  background-size: cover;
+}
+.miranda11 {
+  background-image: url(img/1100-miranda/Miranda-32.jpg);
+  background-size: cover;
+}
+.miranda12 {
+  background-image: url(img/1100-miranda/Miranda-33.jpg);
+  background-size: cover;
+}
+.miranda13 {
+  background-image: url(img/1100-miranda/Miranda-34.jpg);
+  background-size: cover;
+}
+.miranda14 {
+  background-image: url(img/1100-miranda/miranda-35.JPG);
+  background-size: cover;
+}
+.miranda15 {
+  background-image: url(img/1100-miranda/miranda-36.jpeg);
+  background-size: cover;
+}
+.miranda16 {
+  background-image: url(img/1100-miranda/miranda-37.jpg);
+  background-size: cover;
+}
+.miranda17 {
+  background-image: url(img/1100-miranda/miranda-38.jpg);
+  background-size: cover;
+}
+.miranda18 {
+  background-image: url(img/1100-miranda/miranda-39.JPG);
+  background-size: cover;
+}
+.miranda19 {
+  background-image: url(img/1100-miranda/miranda-40.JPG);
+  background-size: cover;
+}
+.miranda20 {
+  background-image: url(img/1100-miranda/miranda-41.JPG);
+  background-size: cover;
+}
+.miranda21 {
+  background-image: url(img/1100-miranda/miranda-42.JPG);
+  background-size: cover;
+}
+.miranda22 {
+  background-image: url(img/1100-miranda/miranda-43.JPG);
+  background-size: cover;
+}
+.miranda23 {
+  background-image: url(img/1100-miranda/miranda-44.jpg);
+  background-size: cover;
+}
+.miranda24 {
+  background-image: url(img/1100-miranda/miranda-45.JPG);
+  background-size: cover;
+}
+.miranda25 {
+  background-image: url(img/1100-miranda/miranda-46.jpg);
+  background-size: cover;
+}
+.miranda26 {
+  background-image: url(img/1100-miranda/miranda-47.jpg);
+  background-size: cover;
+}
+.miranda27 {
+  background-image: url(img/1100-miranda/miranda-48.jpg);
+  background-size: cover;
+}
+.multi_silk1 {
+  background-image: url(img/multi-silk-mohair/1.jpg);
+  background-size: cover;
+}
+.multi_silk2 {
+  background-image: url(img/multi-silk-mohair/2.jpg);
+  background-size: cover;
+}
+.multi_silk3 {
+  background-image: url(img/multi-silk-mohair/3.jpg);
+  background-size: cover;
+}
+.multi_silk4 {
+  background-image: url(img/multi-silk-mohair/4.jpg);
+  background-size: cover;
+}
+.multi_silk5 {
+  background-image: url(img/multi-silk-mohair/5.jpg);
+  background-size: cover;
+}
+.multi_silk6 {
+  background-image: url(img/multi-silk-mohair/6.jpg);
+  background-size: cover;
+}
+.novara1 {
+  background-image: url(img/3500-novara/novara-001.JPG);
+  background-size: cover;
+}
+.novara2 {
+  background-image: url(img/3500-novara/novara-002.JPG);
+  background-size: cover;
+}
+.novara3 {
+  background-image: url(img/3500-novara/novara-003.JPG);
+  background-size: cover;
+}
+.novara4 {
+  background-image: url(img/3500-novara/novara-004.JPG);
+  background-size: cover;
+}
+.novara5 {
+  background-image: url(img/3500-novara/novara-005.JPG);
+  background-size: cover;
+}
+.novara6 {
+  background-image: url(img/3500-novara/novara-006.JPG);
+  background-size: cover;
+}
+.novara7 {
+  background-image: url(img/3500-novara/novara-008.JPG);
+  background-size: cover;
+}
+.novara8 {
+  background-image: url(img/3500-novara/novara-010.JPG);
+  background-size: cover;
+}
+.novara9 {
+  background-image: url(img/3500-novara/novara-011.JPG);
+  background-size: cover;
+}
+.novara10 {
+  background-image: url(img/3500-novara/novara-12.jpg);
+  background-size: cover;
+}
+.novara11 {
+  background-image: url(img/3500-novara/novara-13.jpg);
+  background-size: cover;
+}
+.novara12 {
+  background-image: url(img/3500-novara/novara-14.jpeg);
+  background-size: cover;
+}
+.novara13 {
+  background-image: url(img/3500-novara/novara-15.jpeg);
+  background-size: cover;
+}
+.papyrus1 {
+  background-image: url(img/4300-papyrus/papyrus-01.jpg);
+  background-size: cover;
+}
+.papyrus2 {
+  background-image: url(img/4300-papyrus/papyrus-02.jpg);
+  background-size: cover;
+}
+.papyrus3 {
+  background-image: url(img/4300-papyrus/papyrus-03.jpg);
+  background-size: cover;
+}
+.papyrus4 {
+  background-image: url(img/4300-papyrus/papyrus-04.jpg);
+  background-size: cover;
+}
+.papyrus5 {
+  background-image: url(img/4300-papyrus/papyrus-05.jpg);
+  background-size: cover;
+}
+.papyrus6 {
+  background-image: url(img/4300-papyrus/papyrus-06.jpg);
+  background-size: cover;
+}
+.papyrus7 {
+  background-image: url(img/4300-papyrus/papyrus-07.jpg);
+  background-size: cover;
+}
+.papyrus8 {
+  background-image: url(img/4300-papyrus/papyrus-08.jpg);
+  background-size: cover;
+}
+.papyrus9 {
+  background-image: url(img/4300-papyrus/papyrus-09.jpg);
+  background-size: cover;
+}
+.papyrus10 {
+  background-image: url(img/4300-papyrus/papyrus-10.jpg);
+  background-size: cover;
+}
+.papyrus11 {
+  background-image: url(img/4300-papyrus/papyrus-11.jpg);
+  background-size: cover;
+}
+.papyrus12 {
+  background-image: url(img/4300-papyrus/papyrus-13.jpg);
+  background-size: cover;
+}
+.papyrus13 {
+  background-image: url(img/4300-papyrus/papyrus-14.jpg);
+  background-size: cover;
+}
+.papyrus14 {
+  background-image: url(img/4300-papyrus/papyrus-15.jpg);
+  background-size: cover;
+}
+.papyrus15 {
+  background-image: url(img/4300-papyrus/papyrus-16.jpg);
+  background-size: cover;
+}
+.papyrus16 {
+  background-image: url(img/4300-papyrus/papyrus-17.jpg);
+  background-size: cover;
+}
+.papyrus17 {
+  background-image: url(img/4300-papyrus/papyrus-19.JPG);
+  background-size: cover;
+}
+.papyrus18 {
+  background-image: url(img/4300-papyrus/papyrus-21.jpg);
+  background-size: cover;
+}
+.papyrus19 {
+  background-image: url(img/4300-papyrus/papyrus-22.jpg);
+  background-size: cover;
+}
+.papyrus20 {
+  background-image: url(img/4300-papyrus/papyrus-24.jpg);
+  background-size: cover;
+}
+.papyrus21 {
+  background-image: url(img/4300-papyrus/papyrus-25.jpg);
+  background-size: cover;
+}
+.papyrus22 {
+  background-image: url(img/4300-papyrus/papyrus-26.jpg);
+  background-size: cover;
+}
+.papyrus23 {
+  background-image: url(img/4300-papyrus/papyrus-27.jpg);
+  background-size: cover;
+}
+.papyrus24 {
+  background-image: url(img/4300-papyrus/papyrus-28.jpg);
+  background-size: cover;
+}
+.papyrus25 {
+  background-image: url(img/4300-papyrus/papyrus-29.jpg);
+  background-size: cover;
+}
+.papyrus26 {
+  background-image: url(img/4300-papyrus/papyrus-30.jpg);
+  background-size: cover;
+}
+.papyrus27 {
+  background-image: url(img/4300-papyrus/papyrus-31.jpg);
+  background-size: cover;
+}
+.papyrus28 {
+  background-image: url(img/4300-papyrus/papyrus-32.jpg);
+  background-size: cover;
+}
+.salida_glitter1 {
+  background-image: url(img/4800-salida.glitter/salida-glitter-07_31118.jpg);
+  background-size: cover;
+}
+.salida_glitter2 {
+  background-image: url(img/4800-salida.glitter/salida-glitter-08_31122.jpg);
+  background-size: cover;
+}
+.tibet1 {
+  background-image: url(img/3800-tibet/01.jpg);
+  background-size: cover;
+}
+.tibet2 {
+  background-image: url(img/3800-tibet/02.JPG);
+  background-size: cover;
+}
+.tibet3 {
+  background-image: url(img/3800-tibet/03.JPG);
+  background-size: cover;
+}
+.tibet4 {
+  background-image: url(img/3800-tibet/05.JPG);
+  background-size: cover;
+}
+.tibet5 {
+  background-image: url(img/3800-tibet/06.JPG);
+  background-size: cover;
+}
+.tibet6 {
+  background-image: url(img/3800-tibet/07.jpeg);
+  background-size: cover;
+}
+.tibet7 {
+  background-image: url(img/3800-tibet/08.jpeg);
+  background-size: cover;
+}
+.tibet8 {
+  background-image: url(img/3800-tibet/09.jpeg);
+  background-size: cover;
+}
+.tibet9 {
+  background-image: url(img/3800-tibet/12.JPG);
+  background-size: cover;
+}
+.tibet10 {
+  background-image: url(img/3800-tibet/13.JPG);
+  background-size: cover;
+}
+.tibet11 {
+  background-image: url(img/3800-tibet/17.JPG);
+  background-size: cover;
+}
+.tibet12 {
+  background-image: url(img/3800-tibet/18.JPG);
+  background-size: cover;
+}
+.tibet13 {
+  background-image: url(img/3800-tibet/19.JPG);
+  background-size: cover;
+}
+.tibet14 {
+  background-image: url(img/3800-tibet/20.JPG);
+  background-size: cover;
+}
+.tibet15 {
+  background-image: url(img/3800-tibet/22.JPG);
+  background-size: cover;
+}
+.tibet16 {
+  background-image: url(img/3800-tibet/23.jpg);
+  background-size: cover;
+}
+.tibet17 {
+  background-image: url(img/3800-tibet/24.JPG);
+  background-size: cover;
+}
+.tibet18 {
+  background-image: url(img/3800-tibet/25.JPG);
+  background-size: cover;
+}
+.tibet19 {
+  background-image: url(img/3800-tibet/26.jpg);
+  background-size: cover;
+}
+.tibet20 {
+  background-image: url(img/3800-tibet/27.jpg);
+  background-size: cover;
+}
+.tibet21 {
+  background-image: url(img/3800-tibet/28.jpg);
+  background-size: cover;
+}
+.tibet22 {
+  background-image: url(img/3800-tibet/29.jpeg);
+  background-size: cover;
+}
+.tibet23 {
+  background-image: url(img/3800-tibet/30.jpeg);
+  background-size: cover;
+}
+.tibet24 {
+  background-image: url(img/3800-tibet/31.jpeg);
+  background-size: cover;
+}
+.tibet25 {
+  background-image: url(img/3800-tibet/32.jpeg);
+  background-size: cover;
+}
+.tibet26 {
+  background-image: url(img/3800-tibet/33.jpeg);
+  background-size: cover;
+}
+.tibet27 {
+  background-image: url(img/3800-tibet/34.jpeg);
+  background-size: cover;
+}
+.tibet28 {
+  background-image: url(img/3800-tibet/36.jpg);
+  background-size: cover;
+}
+.tibet29 {
+  background-image: url(img/3800-tibet/37.jpg);
+  background-size: cover;
+}
+.tibet30 {
+  background-image: url(img/3800-tibet/38.jpg);
+  background-size: cover;
+}
+.tibet31 {
+  background-image: url(img/3800-tibet/39.jpg);
+  background-size: cover;
+}
+.whisper1 {
+  background-image: url(img/5000-whisper/whisper-101.jpg);
+  background-size: cover;
+}
+.whisper2 {
+  background-image: url(img/5000-whisper/whisper-102.jpg);
+  background-size: cover;
+}
+.whisper3 {
+  background-image: url(img/5000-whisper/whisper-104.jpg);
+  background-size: cover;
+}
+.whisper4 {
+  background-image: url(img/5000-whisper/whisper-109.jpg);
+  background-size: cover;
+}
+.whisper5 {
+  background-image: url(img/5000-whisper/whisper-110.jpg);
+  background-size: cover;
+}
+.whisper6 {
+  background-image: url(img/5000-whisper/whisper-111.jpg);
+  background-size: cover;
+}
+.whisper7 {
+  background-image: url(img/5000-whisper/whisper-114.jpg);
+  background-size: cover;
+}
+.whisper8 {
+  background-image: url(img/5000-whisper/whisper-116.jpg);
+  background-size: cover;
+}
+.whisper9 {
+  background-image: url(img/5000-whisper/whisper-117.jpg);
+  background-size: cover;
+}
+.whisper10 {
+  background-image: url(img/5000-whisper/whisper-118.jpg);
+  background-size: cover;
+}
+.whisper11 {
+  background-image: url(img/5000-whisper/whisper-119.jpg);
+  background-size: cover;
+}
+.whisper12 {
+  background-image: url(img/5000-whisper/whisper-130.jpg);
+  background-size: cover;
+}
+.whisper13 {
+  background-image: url(img/5000-whisper/whisper-131.jpg);
+  background-size: cover;
+}
+h3 {
+  text-align: center;
+  vertical-align: baseline;
+  line-height: 250px;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  color: rgba(255, 255, 255, 0.534);
+}
+.tekst_bloom_handpaints {
+  line-height: 250px;
+  font-size: 1.5rem;
+}
+.garn a {
+  text-decoration: none;
+}
+.garn {
+  transition: ease 0.5s;
+}
+.garn:hover {
+  filter: brightness(80%);
+  transition: ease 0.5s;
+}
+.garn a h3 {
+  transition: ease 0.5s;
+}
+.garn a h3:hover {
+  filter: none;
+  color: rgba(255, 255, 255, 0.904);
+  transition: ease 0.5s;
+}
+.anisia {
+  background-image: url(img/anisia.jpg);
+  background-size: cover;
+}
+.bloom {
+  background-image: url(img/bloom.jpg);
+  background-size: cover;
+}
+.bloom_handpaints {
+  background-image: url(img/bloom-multi/bamboo-bloom-multi-cewec/bamboo-bloom315.jpg);
+  background-size: cover;
+}
+.cottonwood {
+  background-image: url(img/cottonwood/41124.jpg);
+  background-size: cover;
+}
+.dolce {
+  background-image: url(img/dolce.jpg);
+  background-size: cover;
+}
+.dolce_glitter {
+  background-image: url(img/dolce_glitter.jpg);
+  background-size: cover;
+}
+.dolce_mohair_multi {
+  background-image: url(img/dolce_multi.jpg);
+  background-size: cover;
+}
+.tekst_dolce_mohair_multi {
+  font-size: 1.4rem;
+}
+.socks {
+  background-image: url(img/hot_socks_pearl/19_29975.jpg);
+  background-size: cover;
+}
+.tekst_socks {
+  font-size: 1.5rem;
+}
+.jazz {
+  background-image: url(img/jazz/202.jpg);
+  background-size: cover;
+}
+.jeans {
+  background-image: url(img/jeans.jpg);
+  background-size: cover;
+}
+.katmandu {
+  background-image: url(img/katmandu.jpg);
+  background-size: cover;
+}
+.linea {
+  background-image: url(img/linea.jpg);
+  background-size: cover;
+}
+.lido {
+  background-image: url(img/lido.jpg);
+  background-size: cover;
+}
+.marino_soft {
+  background-image: url(img/marino_soft/33_24188.jpg);
+  background-size: cover;
+}
+.miranda {
+  background-image: url(img/miranda.jpg);
+  background-size: cover;
+}
+.multi_silk {
+  background-image: url(img/multi_silk_mohair.jpg);
+  background-size: cover;
+}
+.tekst_multi_silk {
+  font-size: 1.5rem;
+}
+.novara {
+  background-image: url(img/3500-novara/novara-001.JPG);
+  background-size: cover;
+}
+.papyrus {
+  background-image: url(img/4300-papyrus/papyrus-01.jpg);
+  background-size: cover;
+}
+.salida_glitter {
+  background-image: url(img/4800-salida.glitter/salida-glitter-08_31122.jpg);
+  background-size: cover;
+}
+.tekst_salida_glitter {
+  font-size: 1.5rem;
+}
+.tibet {
+  background-image: url(img/tibet.jpg);
+  background-size: cover;
+}
+.whisper_lace {
+  background-image: url(img/whisper_lace.jpg);
+  background-size: cover;
+}
+.tekst_whisper_lace {
+  font-size: 1.5rem;
+}
+@media (max-width: 800px) {
+  .garn {
+    height: 150px;
+    width: 150px;
+    margin-top: 3%;
+  }
+  .garn h3 {
+    text-align: center;
+    vertical-align: baseline;
+    line-height: 150px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+  }
+  #second_section .section_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media (max-width: 800px) {
+  #first_section .section_wrapper {
+    display: grid;
+    grid-template-columns: none;
+    justify-content: center;
+  }
+}
+.garn {
+  transition: ease 0.5s;
+}
+.garn:hover {
+  filter: brightness(80%);
+  transition: ease 0.5s;
+}
+.garn a h3:hover {
+  filter: brightness(300%);
+  color: white;
+  transition: ease 0.5s;
+}

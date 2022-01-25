@@ -1,0 +1,13 @@
+main {
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+@media (min-width: 700px) {
+  .om {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4%;
+  }
+}

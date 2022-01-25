@@ -1,0 +1,1347 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
+main {
+  margin: 2%;
+}
+h1 {
+  font-size: 3rem;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 15px;
+  margin-top: 4%;
+}
+.first {
+  margin-top: 0.5%;
+}
+.design {
+  width: 250px;
+  height: 350px;
+  margin: 1%;
+  transition: ease 0.5s;
+}
+.design:hover {
+  /* scale: 102%; */
+  filter: brightness(60%);
+  transition: ease 0.5s;
+}
+h3:hover {
+  /* opacity: 0; */
+  transition: ease 0.5s;
+  filter: brightness(300%);
+  color: white;
+}
+#second_section .section_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+h3 {
+  transition: ease 0.5s;
+  text-align: center;
+  vertical-align: baseline;
+  line-height: 350px;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  color: rgba(255, 255, 255, 0.534);
+}
+
+main a {
+  text-decoration: none;
+}
+.miranda_1102 {
+  background-image: url(img/designs/miranda-1102_10766.jpg);
+  background-size: cover;
+}
+.miranda_1103 {
+  background-image: url(img/designs/miranda-1103_10774.jpg);
+  background-size: cover;
+}
+.miranda_1113 {
+  background-image: url(img/designs/miranda-1113_11799.jpg);
+  background-size: cover;
+}
+.miranda_1114 {
+  background-image: url(img/designs/miranda-1114_11803.jpg);
+  background-size: cover;
+}
+.miranda_1115 {
+  background-image: url(img/designs/miranda-1115_11807.jpg);
+  background-size: cover;
+}
+.miranda_1116 {
+  background-image: url(img/designs/miranda-1116_11811.jpg);
+  background-size: cover;
+}
+.miranda_1117 {
+  background-image: url(img/designs/miranda-1117_10830.jpg);
+  background-size: cover;
+}
+.miranda_1118 {
+  background-image: url(img/designs/miranda-1118_10834.jpeg);
+  background-size: cover;
+}
+.miranda_1120 {
+  background-image: url(img/designs/miranda-1120_10850.jpeg);
+  background-size: cover;
+}
+.miranda_1122 {
+  background-image: url(img/designs/miranda-1122_13418.jpg);
+  background-size: cover;
+}
+.miranda_1123 {
+  background-image: url(img/designs/miranda-1123_16112.jpg);
+  background-size: cover;
+}
+.miranda_1125 {
+  background-image: url(img/designs/miranda-1125_16120.jpg);
+  background-size: cover;
+}
+.miranda_1126 {
+  background-image: url(img/designs/miranda-1126_19890.jpg);
+  background-size: cover;
+}
+.miranda_1127 {
+  background-image: url(img/designs/miranda-1127_19463.jpg);
+  background-size: cover;
+}
+.miranda_1128 {
+  background-image: url(img/designs/miranda-1128_19894.jpg);
+  background-size: cover;
+}
+.miranda_1129 {
+  background-image: url(img/designs/miranda-1129_19898.jpg);
+  background-size: cover;
+}
+.miranda_1130 {
+  background-image: url(img/designs/miranda-1130_26010.jpg);
+  background-size: cover;
+}
+.miranda_1131 {
+  background-image: url(img/designs/miranda-1131_25756.jpg);
+  background-size: cover;
+}
+.miranda_1132 {
+  background-image: url(img/designs/miranda-1132_25760.jpg);
+  background-size: cover;
+}
+.miranda_1133 {
+  background-image: url(img/designs/miranda-1133_30276.jpg);
+  background-size: cover;
+}
+.miranda_1134 {
+  background-image: url(img/designs/miranda-1134-l_31258.jpg);
+  background-size: cover;
+}
+.miranda_1135 {
+  background-image: url(img/designs/1135.jpg);
+  background-size: cover;
+}
+.miranda_1136 {
+  background-image: url(img/designs/1136.jpg);
+  background-size: cover;
+}
+.anisia_1203 {
+  background-image: url(img/designs/anisia/anisia-1203_10891.jpg);
+  background-size: cover;
+}
+.anisia_1204 {
+  background-image: url(img/designs/anisia//anisia-1204_10903.jpg);
+  background-size: cover;
+}
+.anisia_1205 {
+  background-image: url(img/designs/anisia/anisia-1205_10907.jpg);
+  background-size: cover;
+}
+.anisia_1210 {
+  background-image: url(img/designs/anisia/anisia-1210_10951.jpg);
+  background-size: cover;
+}
+.anisia_1212 {
+  background-image: url(img/designs/anisia/anisia-1212_10967.jpg);
+  background-size: cover;
+}
+.anisia_1213 {
+  background-image: url(img/designs/anisia/anisia-1213_11679.jpg);
+  background-size: cover;
+}
+.anisia_1214 {
+  background-image: url(img/designs/anisia/anisia-1214_10971.jpg);
+  background-size: cover;
+}
+.anisia_1215 {
+  background-image: url(img/designs/anisia/anisia-1215_10975.jpeg);
+  background-size: cover;
+}
+.anisia_1216 {
+  background-image: url(img/designs/anisia/anisia-1216_10983.jpg);
+  background-size: cover;
+}
+.anisia_1217 {
+  background-image: url(img/designs/anisia/anisia-1217_13362.jpg);
+  background-size: cover;
+}
+.anisia_1218 {
+  background-image: url(img/designs/anisia/anisia-1218_19141.jpg);
+  background-size: cover;
+}
+.anisia_1219 {
+  background-image: url(img/designs/anisia/anisia-1219_19145.jpg);
+  background-size: cover;
+}
+.anisia_1220 {
+  background-image: url(img/designs/anisia/anisia-1220_19149.jpg);
+  background-size: cover;
+}
+.anisia_1221 {
+  background-image: url(img/designs/anisia/anisia-1221_19423.jpg);
+  background-size: cover;
+}
+.anisia_1222 {
+  background-image: url(img/designs/anisia/1222-anisia_21644.jpg);
+  background-size: cover;
+}
+.anisia_1223 {
+  background-image: url(img/designs/anisia/1223-anisia_21648.jpg);
+  background-size: cover;
+}
+.anisia_1224 {
+  background-image: url(img/designs/anisia/anisia-1224_23278.jpg);
+  background-size: cover;
+}
+.anisia_1225 {
+  background-image: url(img/designs/anisia/anisia-1225_23282.jpg);
+  background-size: cover;
+}
+.anisia_1226 {
+  background-image: url(img/designs/anisia/anisia-1226_23777.jpg);
+  background-size: cover;
+}
+.anisia_1227 {
+  background-image: url(img/designs/anisia/anisia-1227_29287.jpg);
+  background-size: cover;
+}
+.anisia_1228 {
+  background-image: url(img/designs/anisia/anisia-1228_30037.jpg);
+  background-size: cover;
+}
+.anisia_1229 {
+  background-image: url(img/designs/anisia/anisia-1229.jpg);
+  background-size: cover;
+}
+.lido_5100 {
+  background-image: url(img/designs/lido/lido-5100_30352.jpg);
+  background-size: cover;
+}
+.lido_5101 {
+  background-image: url(img/designs/lido/lido-5101_30356.jpg);
+  background-size: cover;
+}
+.lido_5102 {
+  background-image: url(img/designs/lido/lido-5102_30360.jpg);
+  background-size: cover;
+}
+.lido_5103 {
+  background-image: url(img/designs/lido/lido-5103_30336.jpg);
+  background-size: cover;
+}
+.lido_kort_5104 {
+  background-image: url(img/designs/lido/lido-5104-k_30300.jpg);
+  background-size: cover;
+}
+.lido_lang_5104 {
+  background-image: url(img/designs/lido/lido-5104-l_30296.jpg);
+  background-size: cover;
+}
+.lido_5105 {
+  background-image: url(img/designs/lido/lido-5105_30268.jpg);
+  background-size: cover;
+}
+.linea_1602 {
+  background-image: url(img/designs/linea/linea-1602_11020.jpg);
+  background-size: cover;
+}
+.linea_1608 {
+  background-image: url(img/designs/linea/linea-1608_11771.jpg);
+  background-size: cover;
+}
+.linea_1609 {
+  background-image: url(img/designs/linea/linea-1609_11775.jpg);
+  background-size: cover;
+}
+.linea_1614 {
+  background-image: url(img/designs/linea/strik_008_12267.jpg);
+  background-size: cover;
+}
+.linea_1616 {
+  background-image: url(img/designs/linea/linea-1616_11032.jpeg);
+  background-size: cover;
+}
+.linea_1617 {
+  background-image: url(img/designs/linea/linea-1617_11040.jpeg);
+  background-size: cover;
+}
+.linea_1618 {
+  background-image: url(img/designs/linea/linea-1618_11048.jpeg);
+  background-size: cover;
+}
+.linea_1619 {
+  background-image: url(img/designs/linea/linea-1619_13398.jpg);
+  background-size: cover;
+}
+.linea_1620 {
+  background-image: url(img/designs/linea/linea-1620_13402.jpg);
+  background-size: cover;
+}
+.linea_1622 {
+  background-image: url(img/designs/linea/linea-1622_13410.jpg);
+  background-size: cover;
+}
+.linea_1625 {
+  background-image: url(img/designs/linea/linea-1625_16088.jpg);
+  background-size: cover;
+}
+.linea_1626 {
+  background-image: url(img/designs/linea/linea-1626_16092.jpg);
+  background-size: cover;
+}
+.linea_1627 {
+  background-image: url(img/designs/linea/linea-1627_16096.jpg);
+  background-size: cover;
+}
+.linea_1628 {
+  background-image: url(img/designs/linea/linea-1628_16100.jpg);
+  background-size: cover;
+}
+.linea_1629 {
+  background-image: url(img/designs/linea/linea-1629_16104.jpg);
+  background-size: cover;
+}
+.linea_1630 {
+  background-image: url(img/designs/linea/linea-1630_19467.jpg);
+  background-size: cover;
+}
+.linea_1631 {
+  background-image: url(img/designs/linea/linea-1631_19471.jpg);
+  background-size: cover;
+}
+.linea_1632 {
+  background-image: url(img/designs/linea/linea-1632_19475.jpg);
+  background-size: cover;
+}
+.linea_1633 {
+  background-image: url(img/designs/linea/linea-1633_19443.jpg);
+  background-size: cover;
+}
+.linea_1634 {
+  background-image: url(img/designs/linea/linea-1634_19447.jpg);
+  background-size: cover;
+}
+.linea_1635 {
+  background-image: url(img/designs/linea/linea-1635_19451.jpg);
+  background-size: cover;
+}
+.linea_1636 {
+  background-image: url(img/designs/linea/linea-1636_25938.jpg);
+  background-size: cover;
+}
+.linea_1637 {
+  background-image: url(img/designs/linea/linea-1637_25942.jpg);
+  background-size: cover;
+}
+.linea_1638 {
+  background-image: url(img/designs/linea/linea-1638_25946.jpg);
+  background-size: cover;
+}
+.linea_1639 {
+  background-image: url(img/designs/linea/linea-1639_25748.jpg);
+  background-size: cover;
+}
+.linea_1640 {
+  background-image: url(img/designs/linea/linea-1640_25752.jpg);
+  background-size: cover;
+}
+.linea_1641 {
+  background-image: url(img/designs/linea/linea-1641_29331.jpg);
+  background-size: cover;
+}
+.linea_1642 {
+  background-image: url(img/designs/linea/linea-1642_30340.jpg);
+  background-size: cover;
+}
+.linea_1643 {
+  background-image: url(img/designs/linea/linea-1643-l_31312.jpeg);
+  background-size: cover;
+}
+.linea_1644 {
+  background-image: url(img/designs/linea/linea-1644_31316.jpg);
+  background-size: cover;
+}
+.marinosoft_2000 {
+  background-image: url(img/designs/marinosoft/marinosoft-2000_11182.jpg);
+  background-size: cover;
+}
+.marinosoft_2001 {
+  background-image: url(img/designs/marinosoft/marino-2001_11783.jpg);
+  background-size: cover;
+}
+.marinosoft_2002 {
+  background-image: url(img/designs/marinosoft/marino-2002_11787.jpg);
+  background-size: cover;
+}
+.marinosoft_2004 {
+  background-image: url(img/designs/marinosoft/marinosoft-2004_16108.jpg);
+  background-size: cover;
+}
+.marinosoft_2005 {
+  background-image: url(img/designs/marinosoft/marinosoft-2005_18581.jpg);
+  background-size: cover;
+}
+.marinosoft_2006 {
+  background-image: url(img/designs/marinosoft/marinosoft-2006_23326.jpg);
+  background-size: cover;
+}
+.cottontrue_4203 {
+  background-image: url(img/designs/cottontrue/cottrue-4203_16072.jpg);
+  background-size: cover;
+}
+.cottonwood_2509 {
+  background-image: url(img/designs/cottonwood/cottonwood-2509_11234.jpg);
+  background-size: cover;
+}
+.cottonwood_2510 {
+  background-image: url(img/designs/cottonwood/cottonwood-2510_13370.jpg);
+  background-size: cover;
+}
+.cottonwood_2517 {
+  background-image: url(img/designs/cottonwood/cottonwood-2517_20126.jpg);
+  background-size: cover;
+}
+.cottonwood_2518 {
+  background-image: url(img/designs/cottonwood/2518-cottonwood_21652.jpg);
+  background-size: cover;
+}
+.jazz_2901 {
+  background-image: url(img/designs/jazz/jazz-2901_11342.jpg);
+  background-size: cover;
+}
+.jazz_2902 {
+  background-image: url(img/designs/jazz/jazz-2902_11346.jpg);
+  background-size: cover;
+}
+.jazz_2903 {
+  background-image: url(img/designs/jazz/jazz-2903_11350.jpg);
+  background-size: cover;
+}
+.jazz_2905 {
+  background-image: url(img/designs/jazz/jazz-2905_13386.jpg);
+  background-size: cover;
+}
+.jazz_2906 {
+  background-image: url(img/designs/jazz/jazz-2906_13390.jpg);
+  background-size: cover;
+}
+.jazz_2908 {
+  background-image: url(img/designs/jazz/jazz-2908_15168.jpg);
+  background-size: cover;
+}
+.jazz_2909 {
+  background-image: url(img/designs/jazz/jazz-2909_16076.jpg);
+  background-size: cover;
+}
+.jazz_2910 {
+  background-image: url(img/designs/jazz/jazz-2910_16080.jpg);
+  background-size: cover;
+}
+.jazz_2912 {
+  background-image: url(img/designs/jazz/jazz-2912_16084.jpg);
+  background-size: cover;
+}
+.jazz_2913 {
+  background-image: url(img/designs/jazz/jazz-2913_19874.jpg);
+  background-size: cover;
+}
+.jazz_2914 {
+  background-image: url(img/designs/jazz/jazz-2914_19878.jpg);
+  background-size: cover;
+}
+.jazz_2915 {
+  background-image: url(img/designs/jazz/jazz-2915_20114.jpg);
+  background-size: cover;
+}
+.jazz_2916 {
+  background-image: url(img/designs/jazz/jazz-2916_20118.jpg);
+  background-size: cover;
+}
+.jazz_2917 {
+  background-image: url(img/designs/jazz/2917-jazz_21676.jpg);
+  background-size: cover;
+}
+.jazz_2918 {
+  background-image: url(img/designs/jazz/2918-jazz_21672.jpg);
+  background-size: cover;
+}
+.jazz_2919 {
+  background-image: url(img/designs/jazz/jazz-2919_25736.jpg);
+  background-size: cover;
+}
+.jazz_2920 {
+  background-image: url(img/designs/jazz/jazz-2920_25740.jpg);
+  background-size: cover;
+}
+.jazz_2921 {
+  background-image: url(img/designs/jazz/jazz-2921_25744.jpg);
+  background-size: cover;
+}
+.jazz_2922 {
+  background-image: url(img/designs/jazz/jazz-2922_29311.jpg);
+  background-size: cover;
+}
+.jazz_2923 {
+  background-image: url(img/designs/jazz/jazz-2923_30284.jpg);
+  background-size: cover;
+}
+.jazz_2924 {
+  background-image: url(img/designs/jazz/jazz-2924_30312.jpg);
+  background-size: cover;
+}
+.jazz_2925 {
+  background-image: url(img/designs/jazz/jazz-2925_30344.jpg);
+  background-size: cover;
+}
+.jazz_2926 {
+  background-image: url(img/designs/jazz/jazz-2926-print_31320.jpeg);
+  background-size: cover;
+}
+.jazz_2927 {
+  background-image: url(img/designs/jazz/jazz-2927_31324.jpg);
+  background-size: cover;
+}
+.novara_3500 {
+  background-image: url(img/designs/novara/novara-3500_13426.jpg);
+  background-size: cover;
+}
+.novara_3501 {
+  background-image: url(img/designs/novara/novara-3501_13430.jpg);
+  background-size: cover;
+}
+.novara_3502 {
+  background-image: url(img/designs/novara/novara-3502_13434.jpg);
+  background-size: cover;
+}
+.novara_3503 {
+  background-image: url(img/designs/novara/novara-3503_16132.jpg);
+  background-size: cover;
+}
+.novara_3504 {
+  background-image: url(img/designs/novara/novara-3504_16136.jpg);
+  background-size: cover;
+}
+.novara_3505 {
+  background-image: url(img/designs/novara/novara-3505_16140.jpg);
+  background-size: cover;
+}
+.novara_3506 {
+  background-image: url(img/designs/novara/novara-3506_16144.jpg);
+  background-size: cover;
+}
+.novara_3507 {
+  background-image: url(img/designs/novara/novara-3507_19455.jpg);
+  background-size: cover;
+}
+.novara_3508 {
+  background-image: url(img/designs/novara/novara-3508_19459.jpg);
+  background-size: cover;
+}
+.novara_3509 {
+  background-image: url(img/designs/novara/novara-3509_23330.jpg);
+  background-size: cover;
+}
+.novara_3510 {
+  background-image: url(img/designs/novara/novara-3510_23334.jpg);
+  background-size: cover;
+}
+.novara_3511 {
+  background-image: url(img/designs/novara/novara-3511_25764.jpg);
+  background-size: cover;
+}
+.novara_3512 {
+  background-image: url(img/designs/novara/novara-3512_25768.jpg);
+  background-size: cover;
+}
+.novara_3513 {
+  background-image: url(img/designs/novara/novara-3513_29799.jpg);
+  background-size: cover;
+}
+.novara_3514 {
+  background-image: url(img/designs/novara/novara-3514_30320.jpg);
+  background-size: cover;
+}
+.tibet_3800 {
+  background-image: url(img/designs/tibet/tibet-3800_15119.jpg);
+  background-size: cover;
+}
+.tibet_3801 {
+  background-image: url(img/designs/tibet/tibet-3801_15123.jpg);
+  background-size: cover;
+}
+.tibet_3802 {
+  background-image: url(img/designs/tibet/tibet-3802_15127.jpg);
+  background-size: cover;
+}
+.tibet_3803 {
+  background-image: url(img/designs/tibet/tibet-3803_15131.jpg);
+  background-size: cover;
+}
+.tibet_3804 {
+  background-image: url(img/designs/tibet/tibet-3804_15644.jpg);
+  background-size: cover;
+}
+.tibet_3805 {
+  background-image: url(img/designs/tibet/tibet-3805_15648.jpg);
+  background-size: cover;
+}
+.tibet_3806 {
+  background-image: url(img/designs/tibet/tibet-3806_15652.jpg);
+  background-size: cover;
+}
+.tibet_3807 {
+  background-image: url(img/designs/tibet/tibet-3807_17502.jpg);
+  background-size: cover;
+}
+.tibet_3808 {
+  background-image: url(img/designs/tibet/tibet-3808_17506.jpg);
+  background-size: cover;
+}
+.tibet_3809 {
+  background-image: url(img/designs/tibet/tibet-3809_18731.jpg);
+  background-size: cover;
+}
+.tibet_3810 {
+  background-image: url(img/designs/tibet/tibet-3810_19485.jpg);
+  background-size: cover;
+}
+.tibet_3811 {
+  background-image: url(img/designs/tibet/tibet-3811_19177.jpg);
+  background-size: cover;
+}
+.tibet_3812 {
+  background-image: url(img/designs/tibet/tibet-3812_18565.jpg);
+  background-size: cover;
+}
+.tibet_3813 {
+  background-image: url(img/designs/tibet/tibet-3813_18569.jpg);
+  background-size: cover;
+}
+.tibet_3814 {
+  background-image: url(img/designs/tibet/tibet-3814_18573.jpg);
+  background-size: cover;
+}
+.tibet_3815 {
+  background-image: url(img/designs/tibet/tibet-3815_18577.jpg);
+  background-size: cover;
+}
+.tibet_3816 {
+  background-image: url(img/designs/tibet/tibet-3816_19181.jpg);
+  background-size: cover;
+}
+.tibet_3817 {
+  background-image: url(img/designs/tibet/tibet-3817_19185.jpg);
+  background-size: cover;
+}
+.tibet_3818 {
+  background-image: url(img/designs/tibet/3818-tibet_21684.jpg);
+  background-size: cover;
+}
+.tibet_3819 {
+  background-image: url(img/designs/tibet/3819-tibet_21688.jpg);
+  background-size: cover;
+}
+.tibet_3820 {
+  background-image: url(img/designs/tibet/tibet-3820_23362.jpg);
+  background-size: cover;
+}
+.tibet_3821 {
+  background-image: url(img/designs/tibet/tibet-3821_23390.jpg);
+  background-size: cover;
+}
+.tibet_3822 {
+  background-image: url(img/designs/tibet/tibet-3822_23394.jpg);
+  background-size: cover;
+}
+.tibet_3823 {
+  background-image: url(img/designs/tibet/tibet-3823_23398.jpg);
+  background-size: cover;
+}
+.tibet_3824 {
+  background-image: url(img/designs/tibet/tibet-3824_23366.jpg);
+  background-size: cover;
+}
+.tibet_3825 {
+  background-image: url(img/designs/tibet/tibet-3825_23370.jpg);
+  background-size: cover;
+}
+.tibet_3826 {
+  background-image: url(img/designs/tibet/tibet-3826_29156.jpg);
+  background-size: cover;
+}
+.tibet_3827 {
+  background-image: url(img/designs/tibet/3827-tibet_23753.jpg);
+  background-size: cover;
+}
+.tibet_3828 {
+  background-image: url(img/designs/tibet/tibet-3828_25784.jpg);
+  background-size: cover;
+}
+.tibet_3829 {
+  background-image: url(img/designs/tibet/tibet-3829_25788.jpg);
+  background-size: cover;
+}
+.tibet_3830 {
+  background-image: url(img/designs/tibet/tibet-3830_29343.jpg);
+  background-size: cover;
+}
+.tibet_3831 {
+  background-image: url(img/designs/tibet/tibet-3831_29347.jpg);
+  background-size: cover;
+}
+.tibet_3832 {
+  background-image: url(img/designs/tibet/tibet-3832_29351.jpg);
+  background-size: cover;
+}
+.tibet_3833 {
+  background-image: url(img/designs/tibet/tibet-3833_29355.jpg);
+  background-size: cover;
+}
+.tibet_3834 {
+  background-image: url(img/designs/tibet/tibet-3834_29811.jpg);
+  background-size: cover;
+}
+.tibet_3835 {
+  background-image: url(img/designs/tibet/tibet-3835_29815.jpg);
+  background-size: cover;
+}
+.tibet_3836 {
+  background-image: url(img/designs/tibet/tibet-3836_30044.jpg);
+  background-size: cover;
+}
+.tibet_3837 {
+  background-image: url(img/designs/tibet/tibet-3837_30364.jpg);
+  background-size: cover;
+}
+.tibet_3838 {
+  background-image: url(img/designs/tibet/tibet-3838_30316.jpg);
+  background-size: cover;
+}
+.tibet_3847 {
+  background-image: url(img/designs/tibet/3847.jpg);
+  background-size: cover;
+}
+.tibet_3848 {
+  background-image: url(img/designs/tibet/3848.jpg);
+  background-size: cover;
+}
+.tibet_3849 {
+  background-image: url(img/designs/tibet/3849.jpg);
+  background-size: cover;
+}
+.tibet_3850 {
+  background-image: url(img/designs/tibet/3850.jpg);
+  background-size: cover;
+}
+.papyrus_4300 {
+  background-image: url(img/designs/papyrus/papyrus-4300_16148.jpg);
+  background-size: cover;
+}
+.papyrus_4301 {
+  background-image: url(img/designs/papyrus/papyrus-4301_16152.jpg);
+  background-size: cover;
+}
+.papyrus_4302 {
+  background-image: url(img/designs/papyrus/papyrus-4302_16156.jpg);
+  background-size: cover;
+}
+.papyrus_4303 {
+  background-image: url(img/designs/papyrus/papyrus-4307_16168.jpg);
+  background-size: cover;
+}
+.papyrus_4305 {
+  background-image: url(img/designs/papyrus/papyrus-4305_16160.jpg);
+  background-size: cover;
+}
+.papyrus_4306 {
+  background-image: url(img/designs/papyrus/papyrus-4306_16164.jpg);
+  background-size: cover;
+}
+.papyrus_4307 {
+  background-image: url(img/designs/papyrus/papyrus-4307_19169.jpg);
+  background-size: cover;
+}
+.papyrus_4308 {
+  background-image: url(img/designs/papyrus/papyrus-4308_19479.jpg);
+  background-size: cover;
+}
+.papyrus_4309 {
+  background-image: url(img/designs/papyrus/papyrus-4309_19902.jpg);
+  background-size: cover;
+}
+.papyrus_4310 {
+  background-image: url(img/designs/papyrus/papyrus-4310_19906.jpg);
+  background-size: cover;
+}
+.papyrus_4311 {
+  background-image: url(img/designs/papyrus/papyrus-4311_19910.jpg);
+  background-size: cover;
+}
+.papyrus_4312 {
+  background-image: url(img/designs/papyrus/papyrus-4312_19914.jpg);
+  background-size: cover;
+}
+.papyrus_4313 {
+  background-image: url(img/designs/papyrus/papyrus-4313_25868.jpg);
+  background-size: cover;
+}
+.papyrus_4314 {
+  background-image: url(img/designs/papyrus/papyrus-4314_25772.jpg);
+  background-size: cover;
+}
+.papyrus_4315 {
+  background-image: url(img/designs/papyrus/papyrus-4315_25776.jpg);
+  background-size: cover;
+}
+.papyrus_4316 {
+  background-image: url(img/designs/papyrus/papyrus-4316_25780.jpg);
+  background-size: cover;
+}
+.papyrus_4317 {
+  background-image: url(img/designs/papyrus/papyrus-4317_29335.jpg);
+  background-size: cover;
+}
+.papyrus_4318 {
+  background-image: url(img/designs/papyrus/papyrus-4318_30328.jpg);
+  background-size: cover;
+}
+.papyrus_4319 {
+  background-image: url(img/designs/papyrus/papyrus-4319_30292.jpg);
+  background-size: cover;
+}
+.papyrus_4320 {
+  background-image: url(img/designs/papyrus/papyrus-4320_30288.jpg);
+  background-size: cover;
+}
+.papyrus_4321 {
+  background-image: url(img/designs/papyrus/papyrus-4321-l_31337.jpeg);
+  background-size: cover;
+}
+.papyrus_4322 {
+  background-image: url(img/designs/papyrus/papyrus-4322-l_31333.jpeg);
+  background-size: cover;
+}
+.papyrus_4323 {
+  background-image: url(img/designs/papyrus/4323.jpg);
+  background-size: cover;
+}
+.bella_4500 {
+  background-image: url(img/designs/bella/bella-4500_18765.jpg);
+  background-size: cover;
+}
+.bella_4501 {
+  background-image: url(img/designs/bella/bella-4501_18769.jpg);
+  background-size: cover;
+}
+.pearl_4503 {
+  background-image: url(img/designs/pearl/pearl-4503_23346.jpg);
+  background-size: cover;
+}
+.pearl_4504 {
+  background-image: url(img/designs/pearl/pearl-4504_23350.jpg);
+  background-size: cover;
+}
+.pearl_4505 {
+  background-image: url(img/designs/pearl/pearl-4505_23354.jpg);
+  background-size: cover;
+}
+.pearl_4506 {
+  background-image: url(img/designs/pearl/pearl-4506_29339.jpg);
+  background-size: cover;
+}
+.pearl_4507 {
+  background-image: url(img/designs/pearl/pearl-4507_29803.jpg);
+  background-size: cover;
+}
+.pearl_4508 {
+  background-image: url(img/designs/pearl/pearl-4508_29807.jpg);
+  background-size: cover;
+}
+.pearl_4509 {
+  background-image: url(img/designs/pearl/pearl-4509_30095.jpg);
+  background-size: cover;
+}
+.bloom_4700 {
+  background-image: url(img/designs/bloom/bloom-4700_23374.jpg);
+  background-size: cover;
+}
+.bloom_4701 {
+  background-image: url(img/designs/bloom/bloom-4701_23378.jpg);
+  background-size: cover;
+}
+.bloom_4702 {
+  background-image: url(img/designs/bloom/bloom-4702_23382.jpg);
+  background-size: cover;
+}
+.bloom_4703 {
+  background-image: url(img/designs/bloom/bloom-4703_23386.jpg);
+  background-size: cover;
+}
+.bloom_4704 {
+  background-image: url(img/designs/bloom/bloom-4704_29459.jpg);
+  background-size: cover;
+}
+.bloom_4705 {
+  background-image: url(img/designs/bloom/bloom-4705_29463.jpg);
+  background-size: cover;
+}
+.bloom_4706 {
+  background-image: url(img/designs/bloom/bloom-4706_29783.jpg);
+  background-size: cover;
+}
+.salida_4800 {
+  background-image: url(img/designs/salida/salida-4800_23358.jpg);
+  background-size: cover;
+}
+.dolce_4600 {
+  background-image: url(img/designs/dolce/dolce-4600_19427.jpg);
+  background-size: cover;
+}
+.dolce_4601 {
+  background-image: url(img/designs/dolce/dolce-4601_19431.jpg);
+  background-size: cover;
+}
+.dolce_4602 {
+  background-image: url(img/designs/dolce/dolce-4602_19858.jpg);
+  background-size: cover;
+}
+.dolce_4604 {
+  background-image: url(img/designs/dolce/dolce-4604_19866.jpg);
+  background-size: cover;
+}
+.dolce_4605 {
+  background-image: url(img/designs/dolce/dolce-4605_19870.jpg);
+  background-size: cover;
+}
+.dolce_4606 {
+  background-image: url(img/designs/dolce/4606-dolce_21656.jpg);
+  background-size: cover;
+}
+.dolce_4607 {
+  background-image: url(img/designs/dolce/4607-dolce_21660.jpg);
+  background-size: cover;
+}
+.dolce_4608 {
+  background-image: url(img/designs/dolce/4608-dolce_21664.jpg);
+  background-size: cover;
+}
+.dolce_4609 {
+  background-image: url(img/designs/dolce/4609-dolce_21668.jpg);
+  background-size: cover;
+}
+.dolce_4610 {
+  background-image: url(img/designs/dolce/dolce-4610_23286.jpg);
+  background-size: cover;
+}
+.dolce_4611 {
+  background-image: url(img/designs/dolce/dolce-4611_23290.jpg);
+  background-size: cover;
+}
+.dolce_4612 {
+  background-image: url(img/designs/dolce/dolce-4612_23294.jpg);
+  background-size: cover;
+}
+.dolce_4613 {
+  background-image: url(img/designs/dolce/dolce-4613_23298.jpg);
+  background-size: cover;
+}
+.dolce_4614 {
+  background-image: url(img/designs/dolce/dolce-4614_23302.jpg);
+  background-size: cover;
+}
+.dolce_4615 {
+  background-image: url(img/designs/dolce/dolce-4615_23306.jpg);
+  background-size: cover;
+}
+.dolce_4616 {
+  background-image: url(img/designs/dolce/dolce-4616_23757.jpg);
+  background-size: cover;
+}
+.dolce_4617 {
+  background-image: url(img/designs/dolce/dolce-4617_23761.jpg);
+  background-size: cover;
+}
+.dolce_4618 {
+  background-image: url(img/designs/dolce/dolce-4618_25728.jpg);
+  background-size: cover;
+}
+.dolce_4619 {
+  background-image: url(img/designs/dolce/dolce-4619_25732.jpg);
+  background-size: cover;
+}
+.dolce_4620 {
+  background-image: url(img/designs/dolce/dolce-4620_29299.jpg);
+  background-size: cover;
+}
+.dolce_4621 {
+  background-image: url(img/designs/dolce/dolce-4621_29787.jpg);
+  background-size: cover;
+}
+.dolce_4622 {
+  background-image: url(img/designs/dolce/dolce-4622_29303.jpg);
+  background-size: cover;
+}
+.dolce_4623 {
+  background-image: url(img/designs/dolce/dolce-4623_29307.jpg);
+  background-size: cover;
+}
+.dolce_4624 {
+  background-image: url(img/designs/dolce/dolce-4624_29791.jpg);
+  background-size: cover;
+}
+.dolce_4625 {
+  background-image: url(img/designs/dolce/dolce-4625_30019.jpg);
+  background-size: cover;
+}
+.dolce_4626 {
+  background-image: url(img/designs/dolce/dolce-4626_30047.jpg);
+  background-size: cover;
+}
+.dolce_4627 {
+  background-image: url(img/designs/dolce/dolce-4627_30028.jpg);
+  background-size: cover;
+}
+.dolce_4628 {
+  background-image: url(img/designs/dolce/dolce-4628_30025.jpg);
+  background-size: cover;
+}
+.dolce_4629 {
+  background-image: url(img/designs/dolce/dolce-4629_30332.jpg);
+  background-size: cover;
+}
+.dolce_4630 {
+  background-image: url(img/designs/dolce/dolce-4630_30280.jpg);
+  background-size: cover;
+}
+.dolce_4631 {
+  background-image: url(img/designs/dolce/dolce-4631_31341.jpg);
+  background-size: cover;
+}
+.dolce_4632 {
+  background-image: url(img/designs/dolce/dolce4632_1_31602.jpg);
+  background-size: cover;
+}
+.dolce_4633 {
+  background-image: url(img/designs/dolce/dolceglitter4633_1_31606.jpg);
+  background-size: cover;
+}
+.dolce_4634 {
+  background-image: url(img/designs/dolce/dolcemultisilk4634_1_31610.jpg);
+  background-size: cover;
+}
+.dolce_4635 {
+  background-image: url(img/designs/dolce/dolce-multi-4635.jpg);
+  background-size: cover;
+}
+.dolce_4636 {
+  background-image: url(img/designs/dolce/dolce-multi-anisia-4636.jpg);
+  background-size: cover;
+}
+.dolce_4639 {
+  background-image: url(img/designs/dolce/4639.jpg);
+  background-size: cover;
+}
+.katmandu_4400 {
+  background-image: url(img/designs/katmandu/katmandu-4400_18719.jpg);
+  background-size: cover;
+}
+.katmandu_4401 {
+  background-image: url(img/designs/katmandu/katmandu-4401_18761.jpg);
+  background-size: cover;
+}
+.katmandu_4402 {
+  background-image: url(img/designs/katmandu/katmandu-4402_18723.jpg);
+  background-size: cover;
+}
+.katmandu_4403 {
+  background-image: url(img/designs/katmandu/katmandu-4403_18727.jpg);
+  background-size: cover;
+}
+.katmandu_4404 {
+  background-image: url(img/designs/katmandu/katmandu-4404b_18747.jpg);
+  background-size: cover;
+}
+.katmandu_4405 {
+  background-image: url(img/designs/katmandu/katmandu-4405_18751.jpg);
+  background-size: cover;
+}
+.katmandu_4406 {
+  background-image: url(img/designs/katmandu/katmandu-4406_19435.jpg);
+  background-size: cover;
+}
+.katmandu_4407 {
+  background-image: url(img/designs/katmandu/katmandu-4407_19439.jpg);
+  background-size: cover;
+}
+.katmandu_4408 {
+  background-image: url(img/designs/katmandu/4408-katmandu_21680.jpg);
+  background-size: cover;
+}
+.katmandu_4409 {
+  background-image: url(img/designs/katmandu/katmandu-4409_23314.jpg);
+  background-size: cover;
+}
+.katmandu_4410 {
+  background-image: url(img/designs/katmandu/katmandu-4410_23318.jpg);
+  background-size: cover;
+}
+.katmandu_4411 {
+  background-image: url(img/designs/katmandu/katmandu-4411_23765.jpg);
+  background-size: cover;
+}
+.katmandu_4412 {
+  background-image: url(img/designs/katmandu/katmandu-4412_23769.jpg);
+  background-size: cover;
+}
+.katmandu_4413 {
+  background-image: url(img/designs/katmandu/katmandu-4413_23773.jpg);
+  background-size: cover;
+}
+.katmandu_4414 {
+  background-image: url(img/designs/katmandu/katmandu-4414_29327.jpg);
+  background-size: cover;
+}
+.katmandu_4415 {
+  background-image: url(img/designs/katmandu/katmandu-4415_29795.jpg);
+  background-size: cover;
+}
+.katmandu_4416 {
+  background-image: url(img/designs/katmandu/katmandu-4416_30033.jpg);
+  background-size: cover;
+}
+.katmandu_4417 {
+  background-image: url(img/designs/katmandu/katmandu-4417.jpg);
+  background-size: cover;
+}
+.katmandu_4419 {
+  background-image: url(img/designs/katmandu/4419.jpg);
+  background-size: cover;
+}
+.jeans_4900 {
+  background-image: url(img/designs/jeans/jeans-4900_25986.jpg);
+  background-size: cover;
+}
+.jeans_4901 {
+  background-image: url(img/designs/jeans/jeans-4901_25990.jpg);
+  background-size: cover;
+}
+.jeans_4902 {
+  background-image: url(img/designs/jeans/jeans-4902_25994.jpg);
+  background-size: cover;
+}
+.jeans_4903 {
+  background-image: url(img/designs/jeans/jeans-4903_25998.jpg);
+  background-size: cover;
+}
+.jeans_4904 {
+  background-image: url(img/designs/jeans/jeans-4904_26002.jpg);
+  background-size: cover;
+}
+.jeans_4905 {
+  background-image: url(img/designs/jeans/jeans-4905_26006.jpg);
+  background-size: cover;
+}
+.jeans_4906 {
+  background-image: url(img/designs/jeans/jeans-4906_29319.jpg);
+  background-size: cover;
+}
+.jeans_4907 {
+  background-image: url(img/designs/jeans/jeans-4907_29323.jpg);
+  background-size: cover;
+}
+.jeans_4908 {
+  background-image: url(img/designs/jeans/jeans-4908_30476.jpg);
+  background-size: cover;
+}
+.jeans_4909 {
+  background-image: url(img/designs/jeans/jeans-4909_30472.jpg);
+  background-size: cover;
+}
+.jeans_4910 {
+  background-image: url(img/designs/jeans/jeans-4910_30464.jpg);
+  background-size: cover;
+}
+.jeans_4911 {
+  background-image: url(img/designs/jeans/jeans-4911_30468.jpg);
+  background-size: cover;
+}
+.jeans_4912 {
+  background-image: url(img/designs/jeans/jeans-4912_31350.jpg);
+  background-size: cover;
+}
+.jeans_4913 {
+  background-image: url(img/designs/jeans/4913.jpg);
+  background-size: cover;
+}
+.jeans_4914 {
+  background-image: url(img/designs/jeans/4914.jpg);
+  background-size: cover;
+}
+.jeans_4916 {
+  background-image: url(img/designs/jeans/4916.jpg);
+  background-size: cover;
+}
+.jeans_4917 {
+  background-image: url(img/designs/jeans/4917.jpg);
+  background-size: cover;
+}
+.jeans_4918 {
+  background-image: url(img/designs/jeans/4918.jpg);
+  background-size: cover;
+}
+.whisper_5000 {
+  background-image: url(img/designs/whisper/whisper-5000_29819.jpg);
+  background-size: cover;
+}
+.whisper_5001 {
+  background-image: url(img/designs/whisper/whisper-5001_29823.jpg);
+  background-size: cover;
+}
+.whisper_5002 {
+  background-image: url(img/designs/whisper/whisper-5002_29827.jpg);
+  background-size: cover;
+}
+.whisper_5003 {
+  background-image: url(img/designs/whisper/whisper-5003_29831.jpg);
+  background-size: cover;
+}
+.whisper_5004 {
+  background-image: url(img/designs/whisper/whisper-5004_29835.jpg);
+  background-size: cover;
+}
+.whisper_5005 {
+  background-image: url(img/designs/whisper/whisper-5005_29843.jpg);
+  background-size: cover;
+}
+.whisper_5006 {
+  background-image: url(img/designs/whisper/whisper-5006_30119.jpg);
+  background-size: cover;
+}
+.whisper_5007 {
+  background-image: url(img/designs/whisper/whisper-5007_30131.jpg);
+  background-size: cover;
+}
+.whisper_5008 {
+  background-image: url(img/designs/whisper/whisper-5008_30540.jpg);
+  background-size: cover;
+}
+.whisper_5009 {
+  background-image: url(img/designs/whisper/whisper-5009_31354.jpg);
+  background-size: cover;
+}
+@media (max-width: 800px) {
+  .design {
+    height: 200px;
+    width: 150px;
+    margin-top: 3%;
+  }
+
+  h3 {
+    text-align: center;
+    vertical-align: baseline;
+    line-height: 200px;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+  }
+  #second_section .section_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+/* header */
+
+/* burgermenu */
+main .toggle-btn {
+  display: none;
+}
+
+main .toggle-btn {
+  background: transparent;
+  border: none;
+  display: block;
+  min-width: 44px;
+  min-height: 44px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+main nav {
+  display: none;
+}
+
+main nav.shown {
+  border-top: 1px solid #000;
+  padding-top: 1rem;
+  display: flex;
+  flex: 1 1 100%;
+  flex-flow: column;
+}
+
+nav ul {
+  display: flex;
+  flex-flow: column;
+}
+
+.lokal a {
+  text-decoration: none;
+  color: inherit;
+  margin: 0.5%;
+  padding-bottom: 2%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+.lokal a:hover {
+  text-decoration: none;
+  text-decoration: underline;
+  color: black;
+}
+.lokal ul li {
+  list-style: none;
+  padding: 0.5%;
+}
+/* burger */
+.container {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {
+  opacity: 0;
+}
+
+.change .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+  transform: rotate(45deg) translate(-8px, -8px);
+}

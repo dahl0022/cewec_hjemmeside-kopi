@@ -1,0 +1,263 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  transition: ease 1s;
+}
+.nyheder {
+  font-size: 3rem;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 15px;
+
+  text-align: center;
+}
+header:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+  transition: ease 1s;
+}
+.opskrifter img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.garn img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.opskrifter {
+  display: flex;
+  flex-flow: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.garn {
+  margin: 25.2px;
+}
+.garner {
+  display: flex;
+  flex-flow: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+/*sektion 1*/
+#first_section {
+  width: 100%;
+  height: 100vh;
+  background-image: url(img/splash.jpg);
+  background-size: cover;
+  background-position: 90% 10%;
+  margin-bottom: 5%;
+}
+.opskrift {
+  height: 200px;
+  width: 200px;
+  border: 0px solid;
+  border-radius: 15px;
+  margin-top: 3%;
+}
+.billed1 {
+  background-image: url(img/designs/tibet/3849.jpg);
+  background-size: cover;
+  background-position: 70% 40%;
+  transition: ease 1s;
+}
+.billed1:hover {
+  transform: scale(102%);
+  transition: ease 1s;
+  filter: brightness(70%);
+}
+.billed2 {
+  background-image: url(img/designs/dolce/4639.jpg);
+  background-size: cover;
+  background-position: 70% 80%;
+  transition: ease 1s;
+}
+.billed2:hover {
+  transform: scale(102%);
+  transition: ease 1s;
+  filter: brightness(70%);
+}
+.billed3 {
+  background-image: url(img/designs/tibet/3847.jpg);
+  background-size: cover;
+  background-position: 50% 30%;
+  transition: ease 1s;
+}
+.billed3:hover {
+  transform: scale(102%);
+  transition: ease 1s;
+  filter: brightness(70%);
+}
+.billed4 {
+  background-image: url(img/designs/jeans/4913.jpg);
+  background-size: cover;
+  background-position: 70% 80%;
+  transition: ease 1s;
+}
+.billed4:hover {
+  transform: scale(102%);
+  transition: ease 1s;
+  filter: brightness(70%);
+}
+#section_one ul {
+  list-style: none;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 140px;
+  overflow-x: auto;
+}
+footer {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  border-top: solid black 0.5px;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-bottom: 0;
+  padding-top: 2%;
+}
+footer li {
+  list-style-type: none;
+  line-height: 30px;
+}
+footer a {
+  text-decoration: none;
+  color: black;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+#section_two {
+  display: flex;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  gap: 5%;
+  margin: 0;
+  padding: 0;
+}
+.opskrifter_med_knap {
+  background-color: rgba(230, 220, 202, 0.356);
+  padding: 2%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.garn_med_knap {
+  background-color: rgba(230, 220, 202, 0.356);
+  padding: 2%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.garn_med_knap a {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+.garn_med_knap a:hover {
+  text-decoration: underline;
+}
+.garner a:hover {
+  text-decoration: none;
+}
+.opskrifter_med_knap a {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+.opskrifter_med_knap a:hover {
+  text-decoration: underline;
+}
+.garn {
+  height: 200px;
+  width: 200px;
+  border: 0px solid;
+  border-radius: 15px;
+  margin-top: 3%;
+}
+.billed1g {
+  background-image: url(img/tibet.jpg);
+  background-size: cover;
+  background-position: 70% 30%;
+  transition: ease 1s;
+}
+.billed2g {
+  background-image: url(img/miranda.jpg);
+  background-size: cover;
+  background-position: 70% 30%;
+  transition: ease 1s;
+}
+.billed3g {
+  background-image: url(img/katmandu.jpg);
+  background-size: cover;
+  background-position: 70% 30%;
+  transition: ease 1s;
+}
+.billed4g {
+  background-image: url(img/dolce.jpg);
+  background-size: cover;
+  background-position: 70% 30%;
+  transition: ease 1s;
+}
+h3 {
+  text-align: center;
+  vertical-align: baseline;
+  line-height: 200px;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  color: rgba(255, 255, 255, 0.534);
+}
+@media (max-width: 800px) {
+  .garn {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+    border-radius: 15px;
+    margin-top: 3%;
+  }
+  .opskrift {
+    height: 150px;
+    width: 150px;
+    border: 0px solid;
+    border-radius: 15px;
+    margin-top: 3%;
+  }
+  h3 {
+    text-align: center;
+    vertical-align: baseline;
+    line-height: 150px;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.534);
+  }
+  header {
+    background-color: rgba(255, 255, 255, 0.5);
+    transition: ease 1s;
+  }
+}
+.garn a {
+  text-decoration: none;
+}
+.garn {
+  transition: ease 0.5s;
+}
+.garn:hover {
+  filter: brightness(80%);
+  transition: ease 0.5s;
+}
+.garn a h3:hover {
+  filter: brightness(300%);
+  color: white;
+}
+.garn a h3 {
+  transition: ease 0.5s;
+}
